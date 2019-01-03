@@ -1,0 +1,15 @@
+deep:
+  sqs:
+    ACCESS_KEY_ID:
+    SECRET_ACCESS_KEY:
+    PROXY_HOST:
+    port:
+    alwaysThroughS3:
+    largePayloadSupport:
+    region: US_WEST_2
+  s3:
+    s3BucketName:
+    clientRegion:
+    stringObjectKeyName:
+    fileObjectKeyName:
+    fileName:
